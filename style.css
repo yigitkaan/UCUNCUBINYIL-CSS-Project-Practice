@@ -12,6 +12,12 @@ button {
 header {
   display: flex;
   align-items: center;
+  background-color: #fff;
+  box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.5);
+}
+
+body {
+  background-color: #eeeeee;
 }
 
 h2,
@@ -28,7 +34,7 @@ p {
 }
 
 .logo {
-  width: 200px;
+  width: 100px;
   margin-left: 300px;
   display: inline-block;
   margin-right: 60px;
